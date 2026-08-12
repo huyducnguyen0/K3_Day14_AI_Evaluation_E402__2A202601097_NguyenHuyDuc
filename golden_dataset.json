@@ -6,7 +6,7 @@
       "id": "E01",
       "difficulty": "easy",
       "question": "When does the standard add/drop period end for Fall 2026?",
-      "expected_answer": "The Fall 2026 standard add/drop period ends at 17:00 Northstar local time on August 28, 2026.",
+      "expected_answer": "The Fall 2026 standard add/drop period ends at 17:00 on August 28, 2026.",
       "contexts": [
         {
           "source_doc": "01_academic_calendar.md",
@@ -87,8 +87,8 @@
     {
       "id": "M02",
       "difficulty": "medium",
-      "question": "A scholarship recipient drops a course before census and falls below 12 graded credits. What tuition and scholarship effects should the student expect?",
-      "expected_answer": "If the drop occurs after standard add/drop but on or before census, 50% of that course's tuition is reversed. Falling below 12 graded credits on or before census also triggers an immediate scholarship eligibility review.",
+      "question": "A scholarship recipient falls below 12 graded credits by dropping a course. How does the tuition reversal differ if the drop occurs by the end of standard add/drop versus from the next day through census, and what scholarship effect applies?",
+      "expected_answer": "A drop by the end of standard add/drop reverses 100% of that course's tuition; a drop from the next day through census reverses 50%. In either case, falling below 12 graded credits on or before census triggers an immediate scholarship eligibility review.",
       "contexts": [
         {
           "source_doc": "03_tuition_payment_refund.md",
